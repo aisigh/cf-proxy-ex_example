@@ -20,7 +20,7 @@ addEventListener('fetch', event => {
 const str = "/";
 const proxyCookie = "__PROXY_VISITEDSITE__";
 const passwordCookieName = "__PROXY_PWD__";
-const password = "";
+const password = "@neurosama987";
 const replaceUrlObj = "__location____"
 var thisProxyServerUrlHttps;
 var thisProxyServerUrl_hostOnly;
